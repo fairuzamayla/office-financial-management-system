@@ -1,1 +1,1 @@
-# office-financial-management-system
+# office financial management system
